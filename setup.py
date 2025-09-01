@@ -11,8 +11,7 @@ setup(
     version="0.0.1",
     author="Wesley Oliveira",
     author_email="wessoliveira@gmail.com",
-    description="Contains a banking system simulator, with the possibility of creating users and accounts. " \
-    "Also, it allows for depositing and withdrawing money from the main account of the user.",
+    description="A simple banking system simulator",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wessoliveira/simulador-sistema-bancario",

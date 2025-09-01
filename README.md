@@ -21,7 +21,7 @@ pip install sistema_bancario
 ```python
 from sistema_bancario import sistema_bancario
 saved = sistema_bancario.simular_sistema()
-resume = sistema_bancario.continuar_simulacao(save)
+resume = sistema_bancario.continuar_simulacao(saved)
 ```
 
 ## Author
