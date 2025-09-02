@@ -13,7 +13,7 @@ It is a simple banking system simulator, with the possibility of creating users 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install sistema_bancario_simulado.
 
 ```bash
-pip install sistema_bancario_simulado
+pip install -i https://test.pypi.org/simple/ sistema-bancario-simulado
 ```
 
 ## Usage

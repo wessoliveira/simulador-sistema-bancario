@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="sistema_bancario_simulado",
-    version="0.0.1",
+    version="0.0.2",
     author="Wesley Oliveira",
     author_email="wessoliveira@gmail.com",
     description="A simple banking system simulator",
