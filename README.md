@@ -1,4 +1,4 @@
-# sistema_bancario
+# sistema_bancario_simulado
 
 ## Description 
 
@@ -19,7 +19,7 @@ pip install sistema_bancario
 ## Usage
 
 ```python
-from sistema_bancario import sistema_bancario
+from sistema_bancario_simulado import sistema_bancario
 saved = sistema_bancario.simular_sistema()
 resume = sistema_bancario.continuar_simulacao(saved)
 ```
